@@ -1,0 +1,19 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "description": "First initial nodejS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanmitovski/GitTest.git"
+  },
+  "author": "Stefan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanmitovski/GitTest/issues"
+  },
+  "homepage": "https://github.com/stefanmitovski/GitTest#readme"
+}
