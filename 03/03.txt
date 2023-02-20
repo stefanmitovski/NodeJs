@@ -1,0 +1,3 @@
+npm init
+cd 03
+npm test
