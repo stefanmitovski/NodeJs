@@ -1,0 +1,5 @@
+Database
+File System
+Funkcijata koja sto ima parametar so isto ime kako i samata funkcija se vika callback funkcija
+node .\fs_demo.js
+clear
