@@ -5,3 +5,4 @@ http
 expres ruta
 node server.js
 ctrl c
+http status codes
