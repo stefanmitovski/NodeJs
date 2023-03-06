@@ -1,0 +1,7 @@
+/ root
+https
+http
+127.0.0.1:8000 (lokalen server) 8000 lokalna porta
+expres ruta
+node server.js
+ctrl c
