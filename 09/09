@@ -1,0 +1,8 @@
+npm -y
+Endpoint
+route
+pritier view
+CRUD ---> pcreate read update delete
+'/studenti/:id' --->  req.params.id
+request url
+hardcode zakovano vo kod
