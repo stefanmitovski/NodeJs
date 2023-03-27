@@ -1,0 +1,4 @@
+stefmitovski6
+T7GnHTzqFFga2S0G
+npm i mongoose
+conection string

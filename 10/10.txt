@@ -1,0 +1,4 @@
+"start": "node index.js",
+"dev": "nodemon index"
+http://127.0.1:8080 ---> 127.0.1 Lokalna IP adresa  8080 Porta na backend 
+---> nmp i ejs
