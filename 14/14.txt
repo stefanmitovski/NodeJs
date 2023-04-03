@@ -1,0 +1,25 @@
+API
+REST API and SOAP API
+HTTP metodi (post put get)
+Razvivanje na APi, ahritektura, server, security
+HTTP protokoli (HTTP, HTTPS)
+JSON DataFormat
+https://example.com/path/to/page?name=ferret&color=purple
+path/to/page ----->route
+?name=ferret&color=purple ---->query
+xml format na podatoci
+SOAP for enerprice type of solutions 
+REST
+DEVOPS sistem administrator
+nodemon da ne se restartira serverot
+expres api so routi da se kreira
+monguse da se komunicira so baza na podatoci
+Postman, se koristi namesto frontend so cel da se isproba backend
+
+ime na bazata movie ime na kolekcijata movies
+500 internal server error
+200 uspesen respons
+put site podatoci se updejtiraat
+patch parcijalno se apdejtiraat podatoci
+https status contend delete
+dasd
