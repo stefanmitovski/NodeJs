@@ -1,0 +1,6 @@
+JWT JASON Web Tocken Securuty Bearer Tocken
+npm i bcrypt
+npm i express-jwt
+npm jsonwebtocken
+
+const bcrypt
