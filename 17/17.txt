@@ -1,0 +1,8 @@
+Multitenancy Application
+Middleware Drivers
+Microsoft Dinamics
+MultiTenant
+SingleTenant
+Functionality
+Drivers?
+dev posebno se pishuva
