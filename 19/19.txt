@@ -1,0 +1,5 @@
+nodemon za da ranuva serverot celo vreme
+node fetch open weather api 
+home.openweatherma.org/users/sing_up
+backticks
+npm install node-fetch@
