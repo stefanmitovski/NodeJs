@@ -1,0 +1,3 @@
+Mailgun-servis koj sto ovozmozuva da prakjame fake mailovi
+npm i mailgun
+SMTP protokol
