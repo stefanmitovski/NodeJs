@@ -1,0 +1,12 @@
+Hetzner
+Leaseweb
+AWS
+Sure Microsoft
+
+CI/CD continius integration continuos development
+edit enviroment variables
+https://fly.io/
+flyctd lunch
+fly deploy
+search enviroment variables
+exe file
